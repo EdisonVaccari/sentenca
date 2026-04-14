@@ -1,0 +1,38 @@
+# PROMPT PARA PERÍCIA DO ACIDENTE DE TRABALHO OU DOENÇA OCUPACIONAL
+(ATENTAR, EM ESPECIAL, PARA A FIXAÇÃO DOS HONORÁRIOS PERICIAIS E EXPEDIÇÃO DE OFÍCIO)
+
+Tarefa: Elaborar um texto argumentativo jurídico sobre os pedidos relacionados à doença ocupacional/acidente de trabalho com base nos seguintes elementos extraídos de documentos fornecidos: 1. Laudo pericial médico inicial; 2. Manifestações das partes (impugnação ou respostas); 3. Nova manifestação do perito, caso existente.
+Estrutura do texto solicitado: - 1. Contexto Fático e Pericial: Apresente um resumo dos fatos relevantes e das informações técnicas descritas no laudo pericial, incluindo as alegações de doença ocupacional ou acidente de trabalho feitas pelas partes e a conclusão técnica inicial do perito.
+- 2. Fundamentação Legal: Indique a legislação aplicável ao caso (CLT, Lei 8.213/91, etc.) e analise se os pedidos estão ou não fundamentados com base nos dados técnicos e legais.
+- 3. Conclusão: Apresente um texto argumentativo jurídico sem recomendar a procedência ou não dos pedidos. Isso será feito depois da sua resposta, pelo usuário.
+Requisitos específicos: 1. Transcrever ipsis literis a conclusão do laudo pericial ou outro trecho relevante, indicando o número da página correspondente (ID XXXXXXX) (que tem 7 dígitos, podendo ser letras e números), conforme identificado no documento. 2. Estruturar o texto de maneira sequencial e fluida, garantindo que todas as informações extraídas sejam devidamente contextualizadas. 3. Caso as manifestações das partes contestem pontos específicos do laudo, inclua suas alegações no Contexto Fático e Pericial e avalie a pertinência dessas críticas na Fundamentação Legal. 4. Analise especificamente, quando aplicável ao caso:
+    • A existência de nexo causal ou concausal entre as atividades laborais e a doença/acidente; 
+    • A caracterização de incapacidade (temporária ou permanente, parcial ou total) e sua extensão; 
+    • A existência de concausas ou fatores extralaborais que possam ter contribuído para o quadro clínico; 
+    • As medidas preventivas adotadas ou não pelo empregador que poderiam ter evitado o dano; 
+    • A cronologia dos eventos médicos e laborais relevantes para a compreensão do caso. 
+Exemplo de formatação da transcrição: - Conclusão do Laudo Pericial: "Texto da conclusão transcrito." (ID da página: XXXXXXX)
+Entrada: - Documentos enviados, como laudos e manifestações das partes.
+Saída esperada: Um texto bem estruturado, em linguagem jurídica clara, que atenda à solicitação.
+
+**Honorários Periciais**
+1. Sempre que a parte reclamante for sucumbente no pedido, fixar os honorários periciais em R$ 1.000,00, tanto na Fundamentação, quanto no Dispositivo. No Dispositivo constar a determinação para a Secretaria do Juízo expedir a RPV para pagamento da perícia; e
+2. Se a parte reclamada for sucumbente, ou seja, o pedido for acolhido, fixar os honorários periciais em R$ 3.000,00, tanto na Fundamentação, quanto no Dispositivo. Além disso, no Dispositivo constar o seguinte parágrafo, antes do parágrafo das custas: 'Nos termos do artigo 275, I, do Provimento Geral Consolidado do TRT da 18ª Região, comunique-se a  Advocacia Geral da União (AGU), para os fins do art. 120 da Lei nº 8.213, de 24 de julho de 1991, observando-se o seguinte procedimento:
+I - incluir a União, como terceira interessada, na autuação do
+processo judicial, com o nome Regressivas Previdenciárias (INSS) e o CNPJ
+00.394.528/0001-92;
+II - proceder à intimação da União, por intermédio da Procuradoria
+Geral Federal em Goiás, dando notícia da decisão, na qual constará
+obrigatoriamente o nome das partes e a informação de que houve o trânsito julgado da decisão que reconheceu a conduta culposa do empregador.'’
+
+**EXPEDIÇÃO DE OFÍCIOS – acidente de trabalho/doença ocupacional**
+
+Diante do reconhecimento da culpa da reclamada, no tocante à responsabilidade civil subjetiva, tendo acolhido o pedido de indenização por danos morais, defiro o requerimento de expedição de ofícios.
+
+Nos termos do artigo 275, I, do Provimento Geral Consolidado do TRT da 18ª Região, comunique-se a  Advocacia Geral da União (AGU), para os fins do art. 120 da Lei nº 8.213, de 24 de julho de 1991, observando-se o seguinte procedimento:
+I - incluir a União, como terceira interessada, na autuação do
+processo judicial, com o nome Regressivas Previdenciárias (INSS) e o CNPJ
+00.394.528/0001-92;
+II - proceder à intimação da União, por intermédio da Procuradoria
+Geral Federal em Goiás, dando notícia da decisão, na qual constará
+obrigatoriamente o nome das partes e a informação de que houve o trânsito julgado da decisão que reconheceu a conduta culposa do empregador.
